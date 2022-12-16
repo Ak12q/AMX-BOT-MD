@@ -14,31 +14,31 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['917012984396'] //ganti nomer lu
-global.ownername = "ASWIN SPARKY" //ganti nama lu
-global.developer = "ASWIN" //nama lu
-global.ytname = "YT: SPARKY MON 777" //ur yt chanel name
+global.vcardowner = ['919656742797'] //ganti nomer lu
+global.ownername = "AMX.I" //ganti nama lu
+global.developer = "AMAL" //nama lu
+global.ytname = "YT: AMX MON 777" //ur yt chanel name
 global.socialm = "https://www.instagram.com/aswin_sparky.exe" //taroh sosialmedia lu kalo ga punya biarin aja
 global.sgc = "github.com/Sparkymon777/SPARKY-BOT-MD" //ganti group lu
 global.location = "Kerala,TVM,Varkala" //ganti lokasi lu
 
 //bot bomdy 
-global.owner = ['917012984396'] //ur number
-global.ownernomer = "917012984396" //ur number
-global.ownertag = '917012984396' //ur tag number
-global.premium = ['917012984396'] //ur premium number
-global.botname = 'SPARKY MD+' //ur bot name
-global.ownername = "ASWIN SPARKY"
+global.owner = ['919656742797'] //ur number
+global.ownernomer = "919656742797" //ur number
+global.ownertag = '919656742797' //ur tag number
+global.premium = ['919656742797'] //ur premium number
+global.botname = 'AMX MD+' //ur bot name
+global.ownername = "AMAL.MX"
 global.linkz = "https://youtube.com/@sparkymon777" //your theme url which will be displayed on whatsapp
-global.dana = "917012984396"
-global.pulsa = "917012984396"
+global.dana = "919656742797"
+global.pulsa = "91"
 global.websitex = "https://youtube.com/@sparkymon777" //ur website to be displayed
 global.websitex1 = "https://sparkymodswa.blogspot.com"
 global.botscript = 'https://github.com/Sparkymon777/SPARKY-BOT-MD' //script link
 global.themeemoji = "👀" //ur theme emoji
-global.packname = "S P A R K Y" //ur sticker watermark packname
-global.author = "ASWIN" //ur sticker watermark author
-global.wm = "S P A R K Y" //ur watermark
+global.packname = "A M X" //ur sticker watermark packname
+global.author = "AMAL" //ur sticker watermark author
+global.wm = "A M X" //ur watermark
 
 // Other
 global.sessionName = 'session'
